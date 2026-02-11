@@ -14,3 +14,5 @@ Se instala el servidor apache con XAMPP, se crea una base de datos llamada "cine
 **Credenciales**
 Usuario: admin
 Contraseña: admin
+
+<img width="1904" height="914" alt="image" src="https://github.com/user-attachments/assets/de769817-e983-4333-8b09-7a167b17256d" />
